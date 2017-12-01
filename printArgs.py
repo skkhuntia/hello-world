@@ -8,4 +8,6 @@ def printArguments(namespace, node_ip, pod_name):
     print("Pod Name: \t" + pod_name)
     
     if namespace=="csp-qa":
-        return true
+        return True
+    else:
+        return False
