@@ -1,0 +1,2 @@
+#Requirements.txt
+selenium ==3.6.0
